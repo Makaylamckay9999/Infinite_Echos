@@ -1,0 +1,1 @@
+print("Cast Thunderwave!" *10)
